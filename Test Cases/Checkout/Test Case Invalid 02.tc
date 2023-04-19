@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dapat melakukan pemesanan dengan inputan Firs Name dan Last Name berupa angka atau karakter lain, dan Zip/Postal kode dengan variabel atau karakter lain</description>
+   <name>Test Case Invalid 02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8aed370d-b9dd-4faf-b6ef-f6706c0d5062</testCaseGuid>
+</TestCaseEntity>
